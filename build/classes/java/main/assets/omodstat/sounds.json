@@ -1,0 +1,20 @@
+{
+  "guisound.page": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "omodstat:guisound/page",
+        "stream": true
+      }
+    ]
+  },
+  "guisound.select": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "omodstat:guisound/select",
+        "stream": true
+      }
+    ]
+  }
+}

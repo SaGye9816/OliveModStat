@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sagye.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sagye_main_jar</output-path>
+    <root id="archive" name="sagye.main.jar">
+      <element id="module-output" name="sagye.main" />
+    </root>
+  </artifact>
+</component>

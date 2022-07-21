@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "omod",
+    "name": "OMod",
+    "description": "",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Sagye"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

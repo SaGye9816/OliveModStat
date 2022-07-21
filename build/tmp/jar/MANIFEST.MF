@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: sagye
+Implementation-Version: 0.1
+Specification-Title: test00
+Implementation-Timestamp: 2022-05-19T02:55:50+0900
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
